@@ -4,3 +4,12 @@ Common Obstacles with TDD
 - Testing complex scenarios
 - Unit test vs Integration test
 
+##JUnit Jupiter Support in Spring
+JUnit Jupiter and Spring are a great match for testing
+
+###Spring Boot 
+
+- @SpringBootTest
+- @WebMvcTest, etc.
+
+
